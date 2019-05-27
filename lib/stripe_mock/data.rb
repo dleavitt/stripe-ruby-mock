@@ -471,7 +471,9 @@ module StripeMock
             state: nil
           },
           name: "Jenny Rosen",
-          phone: nil
+          phone: nil,
+          tracking_number: nil,
+          carrier: nil
         },
         shipping_methods: nil,
         status: "created",
